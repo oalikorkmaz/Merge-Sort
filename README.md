@@ -1,4 +1,4 @@
-# Veri Yapıları ve Algoritma Merge Sort Ödevi
+# Patika Veri Yapıları ve Algoritma Merge Sort Ödevi (Patika Data Structure & Algorithm Homework)
 
 ## **[16,21,11,8,12,22] -> Merge Sort**
 ## **1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.**
